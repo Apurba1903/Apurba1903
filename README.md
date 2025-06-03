@@ -4,7 +4,7 @@
 
 
 
-<img align="right" alt="Data Flow" width="400" src="https://i.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Data Flow" width="300" src="https://i.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 
 
