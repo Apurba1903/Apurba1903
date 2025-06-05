@@ -27,15 +27,15 @@
 
 <h3 align="left">My Profiles:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/apurba1903" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/apurba1903" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.kaggle.com/apurbahalder" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/apurbahalder" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" height="30" /></a>
   &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/Apurba1903" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/Apurba1903" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/apurba1903" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/apurba1903" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" /></a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Apurba1903/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/Apurba1903/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" /></a>
   &nbsp;&nbsp;
 </p>
 
