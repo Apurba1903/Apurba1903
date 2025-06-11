@@ -17,7 +17,7 @@
 <h3 align="left">About me:</h3>
 
 - 🎓 Currently pursuing **PostGraduate Diploma in Data Science**  
-- 🌱 Currently learning **SQL, FastAPI, PowerBI**  
+- 🌱 Currently learning **SQL, PowerBI**  
 - 📊 Actively building **Streamlit Dashboards with MySQL & AWS RDS**  
 - 🔹 Passionate about **Machine Learning**, **Deep Learning**, and **Data Visualization**  
 - 📫 Reach me: **[Email](mailto:apurba1903@gmail.com)**  
@@ -124,41 +124,4 @@
 
 ---
 
-
-
 <h2 align="center">🚀 Featured Projects</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Apurba1903/smartprix_phone_data" title="Smartprix Phone Data Scraper">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Apurba1903&repo=smartprix_phone_data&theme=radical&border_color=FF00FF&border_radius=10&hide_border=false&show_owner=false">
-  </a>
-  <a align="left" href="https://github.com/Apurba1903/laptop-price-predictor" title="Laptop Price Predictor">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Apurba1903&repo=laptop-price-predictor&theme=radical&border_color=FF00FF&border_radius=10&hide_border=false&show_owner=false">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Apurba1903/real_state_ws" title="Real Estate Web Scraper">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Apurba1903&repo=real_state_ws&theme=radical&border_color=FF00FF&border_radius=10&hide_border=false&show_owner=false">
-  </a>
-  <a align="left" href="https://github.com/Apurba1903/stock_data_ws" title="Stock Market Data Collector">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Apurba1903&repo=stock_data_ws&theme=radical&border_color=FF00FF&border_radius=10&hide_border=false&show_owner=false">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Apurba1903/patient_management_api_using_FastAPI" title="Patient Management API">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Apurba1903&repo=patient_management_api_using_FastAPI&theme=radical&border_color=FF00FF&border_radius=10&hide_border=false&show_owner=false">
-  </a>
-  <a align="left" href="https://github.com/Apurba1903/fastapi-ml-demo" title="FastAPI ML Demo">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Apurba1903&repo=fastapi-ml-demo&theme=radical&border_color=FF00FF&border_radius=10&hide_border=false&show_owner=false">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<h4 align="center">
-  <a href="https://github.com/Apurba1903?tab=repositories" title="Show Repositories" style="color: #ff00ff; text-decoration: none;">
-    Explore More Projects
-  </a>
-</h4>
-
-
