@@ -17,7 +17,7 @@
 <h3 align="left">About me:</h3>
 
 - 🎓 Currently pursuing **PostGraduate Diploma in Data Science**  
-- 🌱 Currently learning **SQL, PowerBI**  
+- 🌱 Currently learning **SQL, PowerBI, Descriptive Statistics **  
 - 📊 Actively building **Streamlit Dashboards with MySQL & AWS RDS**  
 - 🔹 Passionate about **Machine Learning**, **Deep Learning**, and **Data Visualization**  
 - 📫 Reach me: **[Email](mailto:apurba1903@gmail.com)**  
