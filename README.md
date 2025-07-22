@@ -17,8 +17,8 @@
 <h3 align="left">About me:</h3>
 
 - 🎓 Currently pursuing **PostGraduate Diploma in Data Science**  
-- 🌱 Currently learning **SQL, PowerBI, Descriptive Statistics**  
-- 📊 Actively building **Streamlit Dashboards with MySQL & AWS RDS**  
+- 🌱 Currently learning **Advance SQL, Inferential Statistics**  
+- 📊 Currently following roadmaps <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **"Associate Data Scientist in Python - DataCamp" AND <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Data Science Mentorship Program 2.0 - CampusX"**  
 - 🔹 Passionate about **Machine Learning**, **Deep Learning**, and **Data Visualization**  
 - 📫 Reach me: **[Email](mailto:apurba1903@gmail.com)**  
 - 🌐 Portfolio: **[Website](https://apurba1903.github.io/apurba_portfolio/)**
