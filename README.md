@@ -17,7 +17,7 @@
 <h3 align="left">About me:</h3>
 
 - 🎓 Currently pursuing **PostGraduate Diploma in Data Science**  
-- 🌱 Currently learning **Advance SQL, Inferential Statistics**  
+- 🌱 Currently learning **Advance SQL, Machine Learning**  
 - 📊 Currently following roadmaps <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **"Associate Data Scientist in Python - DataCamp" AND <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Data Science Mentorship Program 2.0 - CampusX"**  
 - 🔹 Passionate about **Machine Learning**, **Deep Learning**, and **Data Visualization**  
 - 📫 Reach me: **[Email](mailto:apurba1903@gmail.com)**  
