@@ -18,7 +18,7 @@
 
 - 🎓 Currently pursuing **PostGraduate Diploma in Data Science**  
 - 🌱 Currently learning **Machine Learning**  
-- 📊 Currently following roadmaps <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **"Data Scientist in Python - DataCamp" AND <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Data Science Mentorship Program 2.0 - CampusX"**  
+- 📊 Currently following roadmap <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **"Data Science Mentorship Program 2.0 - CampusX"**  
 - 🔹 Passionate about **Machine Learning**, **Deep Learning**, and **Data Visualization**  
 - 📫 Reach me: **[Email](mailto:apurba1903@gmail.com)**  
 - 🌐 Portfolio: **[Website](https://apurba1903.github.io/apurba_portfolio/)**
