@@ -16,8 +16,8 @@
 
 <h3 align="left">About me:</h3>
 
-- 🎓 Currently pursuing **PostGraduate Diploma in Data Science**  
-- 🌱 Currently learning **Machine Learning**  
+- 🎓 Currently pursuing **Data Science Mentorship Program (DSMP) 2.0 by CampusX**  
+- 🌱 Currently learning **Machine Learning Algorithms**  
 - 📊 Currently following roadmap <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **"Data Science Mentorship Program 2.0 - CampusX"**  
 - 🔹 Passionate about **Machine Learning**, **Deep Learning**, and **Data Visualization**  
 - 📫 Reach me: **[Email](mailto:apurba1903@gmail.com)**  
