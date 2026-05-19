@@ -21,7 +21,7 @@
 - 📊 Currently following roadmap <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **"Data Science Mentorship Program 2.0 - CampusX"**  
 - 🔹 Passionate about **Machine Learning**, **Deep Learning**, **Generative AI**, **Automation** and **Data Visualization**  
 - 📫 Reach me: **[Email](mailto:apurba1903@gmail.com)**  
-- 🌐 Portfolio: **[Website](https://apurba1903.github.io/apurba_portfolio/)**
+
 
 
 
